@@ -20,4 +20,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Feito com ajuda by Rocketseat.
+Feito com ajuda pela Rocketseat.
